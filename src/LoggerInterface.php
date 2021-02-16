@@ -1,0 +1,1 @@
+<?php/** * Nikiforov * logger 2021 */namespace vov1zzz\Logger;interface LoggerInterface{    public function __construct($config);    public function save($message = null) : bool;    public function prepare($text);}

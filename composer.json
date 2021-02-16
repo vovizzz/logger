@@ -1,0 +1,1 @@
+{  "name": "vov1zzz/logger",  "description": "Logger for PHP",  "minimum-stability": "stable",  "license": "proprietary",  "authors": [    {      "name": "Vladimir Nikiforov",      "email": "vn.nvaavn@gmail.com"    }  ],  "autoload": {    "psr-4": {      "vov1zzz\\Logger\\": "src/"    }  }}
